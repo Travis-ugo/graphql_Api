@@ -1,7 +1,7 @@
 const { ApolloServer } = require('apollo-server');
 const mongoose = require('mongoose');
 
-const MONGODB = "mongodb+srv://Travis_okonicha:googleman@cluster0.958cxgq.mongodb.net/?retryWrites=true&w=majority";
+const MONGODB = // mongol DB cluster link;
 
 // typeDefs = Graphql Type Definition
 // resolvers = How do we resolve queries / mutations
